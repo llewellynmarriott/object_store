@@ -1,0 +1,7 @@
+name: object_store
+version: 0.1.0
+author: Oxygen Thief <theo2thief@gmail.com>
+description: Store objects as files in JSON.
+
+#dependencies:
+#  unittest: any
